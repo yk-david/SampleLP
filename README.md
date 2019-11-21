@@ -7,9 +7,10 @@ You can create an account on figma ( it's free ) and get all the information you
 
 __Requirements__:
 
-* You should add to this project 3 files, an HTML page, a CSS and JS files.
+* You should add to this project 4 files, a PHP page, an HTML page, a CSS and JS files.
 * The layout only contains the Desktop layout, but we requires you to make it mobile friendly.
-* The layout has a form, we need you to add the empty validation for all fields, and once it is filled out, you just print the values on the browser console.
+* The layout has a form, we need you to add the empty validation for all fields, and once it is filled out, submit to the fields.php page
+* On the fields.php page you only need to get the fields value and print on the page output.
 
 __Source Code Details__:
 
