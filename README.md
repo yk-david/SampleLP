@@ -16,3 +16,4 @@ __Source Code Details__:
 * Please add a txt file called development.txt explaining the decisions you took on this project.
 * Feel free to use any JS framework if you want, just explain why did you use it on the development.txt file.
 * Create a branch, add your source code there and add a "Pull request" to the repository
+* Using responsive layout and build system is a plus ;-)
